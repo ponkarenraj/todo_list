@@ -44,6 +44,11 @@ li:hover span {
     opacity: 1.0;
 }
 
+.completed {
+	color: gray;
+	text-decoration: line-through;
+}
+
 input {
     font-size: 18px;
     background: #f7f7f7;
